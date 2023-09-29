@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Home - Bermuda Elements",
+  title: "Home - Elements",
   description: "Page description",
 };
 

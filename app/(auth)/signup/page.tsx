@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "Sign Up - Bermuda Elements",
+  title: "Sign Up - Elements",
   description: "Page description",
 };
 
@@ -122,8 +122,8 @@ export default function SignUp() {
                 </div>
               </div>
               <div className="text-sm text-gray-500 text-center">
-                I agree to be contacted by Bermuda Elements about this offer as
-                per the Bermuda Elements{" "}
+                I agree to be contacted by Elements about this offer as per the
+                Elements{" "}
                 <Link
                   href="#"
                   className="underline text-gray-400 hover:text-gray-200 hover:no-underline transition duration-150 ease-in-out"
@@ -141,7 +141,7 @@ export default function SignUp() {
               </div>
             </form>
             <div className="text-gray-400 text-center mt-6">
-              Already using Bermuda Elements?{" "}
+              Already using Elements?{" "}
               <Link
                 href="/signin"
                 className="text-purple-600 hover:text-gray-200 transition duration-150 ease-in-out"

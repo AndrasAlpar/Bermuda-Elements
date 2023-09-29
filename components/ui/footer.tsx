@@ -12,22 +12,18 @@ export default function Footer() {
             <div className="md:col-span-4 lg:col-span-5">
               <div className="mb-2">
                 {/* Logo */}
-                <Link
-                  href="/"
-                  className="inline-block"
-                  aria-label="Bermuda Elements"
-                >
+                <Link href="/" className="inline-block" aria-label="Elements">
                   <img
                     src="https://i.ibb.co/4PH8sKF/379639980-984774589469584-5657179619154602420-n.png"
-                    alt="Bermuda Elements Logo"
+                    alt="Elements Logo"
                     width="250"
                     height="200"
                   />
                 </Link>
               </div>
               <div className="text-gray-400">
-                Bermuda Elements is a leading trading company, providing
-                exceptional services to traders worldwide.
+                Elements is a leading trading company, providing exceptional
+                services to traders worldwide.
               </div>
             </div>
 

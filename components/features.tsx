@@ -9,7 +9,7 @@ export default function Features() {
               Empowering Traders Worldwide
             </h2>
             <p className="text-lg text-gray-600">
-              At Bermuda Elements Trading Co., we provide cutting-edge tools and
+              At Elements Trading Co., we provide cutting-edge tools and
               expertise to help traders succeed in the financial markets.
             </p>
           </div>
