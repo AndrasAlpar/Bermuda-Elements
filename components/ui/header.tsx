@@ -11,7 +11,7 @@ export default function Header() {
             {/* Logo */}
             <Link href="/" className="block" aria-label="Cruip">
               <img
-                src="https://imgur.com/7BVV145.png" // Replace with the actual image URL
+                src="https://i.ibb.co/4PH8sKF/379639980-984774589469584-5657179619154602420-n.png" // Replace with the actual image URL
                 alt="Description of your image"
                 width="250" // Adjust the width as needed
                 height="200" // Adjust the height as needed

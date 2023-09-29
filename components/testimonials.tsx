@@ -93,8 +93,8 @@ export default function Testimonials() {
                 — Bermuda Elements has been instrumental in my trading success.
                 Their educational resources are exceptional, making it easy for
                 me to enhance my trading skills. The support team is responsive
-                and always ready to assist. Thanks to Bermuda Elements, I've
-                achieved my financial goals.
+                and always ready to assist. Thanks to Them, I've achieved my
+                financial goals.
               </blockquote>
               <div className="text-gray-700 font-medium mt-6 pt-5 border-t border-gray-700">
                 <cite className="text-gray-200 not-italic">Kis Tuszám</cite> -{" "}

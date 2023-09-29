@@ -7,11 +7,11 @@ export default function Blocks() {
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h2 mb-4">Empowering Traders with Expertise</h2>
             <p className="text-xl text-gray-400">
-              At Bermuda Elements, we understand that trading can be complex and
-              challenging. That's why we're here to provide you with the
-              knowledge and tools you need to make informed decisions in the
-              financial markets. Our expertise simplifies your trading workflow,
-              so you can trade with confidence and achieve your financial goals.
+              We understand that trading can be complex and challenging. That's
+              why we're here to provide you with the knowledge and tools you
+              need to make informed decisions in the financial markets. Our
+              expertise simplifies your trading workflow, so you can trade with
+              confidence and achieve your financial goals.
             </p>
           </div>
           {/* Items */}

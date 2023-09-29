@@ -18,7 +18,7 @@ export default function Footer() {
                   aria-label="Bermuda Elements"
                 >
                   <img
-                    src="https://imgur.com/7BVV145.png"
+                    src="https://i.ibb.co/4PH8sKF/379639980-984774589469584-5657179619154602420-n.png"
                     alt="Bermuda Elements Logo"
                     width="250"
                     height="200"

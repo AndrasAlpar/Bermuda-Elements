@@ -54,8 +54,10 @@ export default function Hero() {
               data-aos="fade-up"
               data-aos-delay="200"
             >
-              Our landing page template works on all devices, so you only have
-              to set it up once, and get beautiful results forever.
+              We specialize in transforming opportunities into success. With a
+              commitment to innovation, strategic trading, and unparalleled
+              market insights, We empower individuals to redefine their
+              financial future and embark on a journey of prosperity.
             </p>
             <div className="max-w-xs mx-auto sm:max-w-none sm:flex sm:justify-center">
               <div data-aos="fade-up" data-aos-delay="400">
